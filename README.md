@@ -63,7 +63,21 @@ Soil is too acidic. Add lime to adjust pH.
 Water daily due to low humidity.
 Water in the evening to reduce evaporation.
 ```
+## 📸 Screenshot
 
+Below is the sample output of the *Smart Plant Watering Advisor* program executed in Visual Studio Code:
+
+![Smart Plant Watering Advisor Output]<img width="960" alt="output" src="https://github.com/user-attachments/assets/92726a39-2c55-4053-b988-4463f4f938bd" />
+
+- 🌱 *Plant Name*: Tulasi  
+- 🧪 *Soil pH*: 5.5  
+- 🌡 *Temperature*: 38°C  
+- 💧 *Humidity*: 25%  
+
+### 💡 Advice Provided:
+- Soil is too acidic. Add lime to adjust pH.  
+- Water daily due to low humidity.  
+- Water in the evening to reduce evaporation.
 ---
 
 ## 💡 Future Enhancements
