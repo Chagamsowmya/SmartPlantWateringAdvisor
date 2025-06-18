@@ -86,4 +86,5 @@ This project is open for educational and personal use.
 ---
 
 ## 🌐 Connect with Me
-Feel free to reach out via GitHub or LinkedIn if you’d like to collaborate or give feedback!
+- Email: chagamsowmyareddy@gmail.com
+
